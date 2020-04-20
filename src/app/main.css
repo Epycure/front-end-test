@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+.icon svg {
+  vertical-align: -.2em;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+}
